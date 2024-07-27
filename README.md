@@ -1,4 +1,4 @@
-# Traffic-Manager.
+# Traffic-Manager
 
 # HelloWorld-php
 
